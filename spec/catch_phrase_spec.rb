@@ -1,4 +1,4 @@
-require "spec_helper"
+ruby 
 describe "#catch_phrase" do
   it "puts out a catch phrase" do
   phrase = "It's-a me, Mario!"
